@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there!
 
 I'm Samuel, a backend-focused DAM student based in Seville. I'm passionate about building robust server-side systems, designing efficient APIs, and solving data management challenges. I am currently seeking my first professional opportunity as a Backend Developer.
 
