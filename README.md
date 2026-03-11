@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm Samuel, a backend-focused DAM student based in Seville. I'm passionate about building robust server-side systems, designing efficient APIs, and solving data management challenges. I am currently seeking my first professional opportunity as a Backend Developer.
+I'm Samuel, a backend-focused DAM student based in Seville. I'm passionate about server-side systems, APIs, and data management — and actively learning by building projects and contributing to open source. Currently looking for my first opportunity as a Backend Developer.
 
 These days I'm focused on:
 * **Backend Core:** Java, Python, Node.js, PHP
