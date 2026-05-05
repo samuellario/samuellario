@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm Samuel, a backend-focused DAM student based in Seville. I'm passionate about server-side systems, APIs, and data management and I learn by doing: building projects, breaking things, and figuring out why. Currently completing my second internship and actively looking to grow as a Backend Developer.
+I'm Samuel, a backend-focused DAM student based in Seville. I'm passionate about server-side systems, APIs, and data management — and I learn by doing: building projects, breaking things, and figuring out why. Two internships under my belt and actively looking to grow as a Backend Developer.
 
 These days I'm focused on:
 * **Backend Core:** Java, Python, PHP, Node.js (learning)
