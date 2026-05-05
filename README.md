@@ -1,14 +1,14 @@
 # Hi there!
 
-I'm Samuel, a backend-focused DAM student based in Seville. I'm passionate about server-side systems, APIs, and data management — and actively learning by building projects and contributing to open source. Currently looking for my first opportunity as a Backend Developer.
+I'm Samuel, a backend-focused DAM student based in Seville. I'm passionate about server-side systems, APIs, and data management and I learn by doing: building projects, breaking things, and figuring out why. Currently completing my second internship and actively looking to grow as a Backend Developer.
 
 These days I'm focused on:
-* **Backend Core:** Java, Python, Node.js, PHP
-* **Databases:** PostgreSQL, MySQL, MongoDB
+* **Backend Core:** Java, Python, PHP, Node.js (learning)
+* **Databases:** MySQL, MariaDB, MongoDB, PostgreSQL (learning)
 * **Environment:** Git, Docker, Linux
 
 Some stuff I built:
-* **[VLC System Status Tracker Pro](https://github.com/samuellario/vlc-status-widget)** - A high-fidelity WordPress plugin implementing a terminal-based interface. Developed using a Separation of Concerns (SoC) model, featuring dynamic node detection with PHP and an asynchronous state engine built in JavaScript to ensure minimal performance impact.
+* **[VLC System Status Tracker](https://github.com/samuellario/vlc-status-widget)** - A high-fidelity WordPress plugin implementing a terminal-based interface. Developed using a Separation of Concerns (SoC) model, featuring dynamic node detection with PHP and an asynchronous state engine built in JavaScript to ensure minimal performance impact.
 
 Fun Facts:
 * I'm a huge fan of vinyl records
