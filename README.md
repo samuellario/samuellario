@@ -8,7 +8,7 @@ These days I'm focused on:
 * **Environment:** Git, Docker, Linux
 
 Some stuff I built:
-* **[VLC System Status Tracker](https://github.com/samuellario/vlc-status-widget)** - A high-fidelity WordPress plugin implementing a terminal-based interface. Developed using a Separation of Concerns (SoC) model, featuring dynamic node detection with PHP and an asynchronous state engine built in JavaScript to ensure minimal performance impact.
+* **[system-Status-Tracker-Widget](https://github.com/samuellario/system-Status-Tracker-Widget)** - A high-fidelity WordPress plugin implementing a terminal-based interface. Developed using a Separation of Concerns (SoC) model, featuring dynamic node detection with PHP and an asynchronous state engine built in JavaScript to ensure minimal performance impact.
 
 Fun Facts:
 * I'm a huge fan of vinyl records
